@@ -1,0 +1,2 @@
+# pyqpanda3-VQnet
+该项目旨在帮助初学者学习pyqpanda3和VQnet相关的知识，搭建自己的神经网络
